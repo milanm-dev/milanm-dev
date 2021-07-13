@@ -11,12 +11,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lane876&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&theme=gotham)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lane876)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lane876&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/Lane876)  
