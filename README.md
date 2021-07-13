@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Lane876 Falk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Lane876 Falk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
