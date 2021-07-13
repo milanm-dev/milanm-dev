@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Lane876/Lane876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
+### Hi there 👋
 
 [![Lane876 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
