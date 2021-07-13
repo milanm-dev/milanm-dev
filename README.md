@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Milan
-#### I ♥️ coding
+#### Coding is my cardio 😂
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
