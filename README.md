@@ -5,7 +5,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&theme=gotham)
 
+---
+
 Skills: REACT / VUE JS / REACT NATIVE / JS / HTML / CSS / SCSS
+
+---
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876)  
 
