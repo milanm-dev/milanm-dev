@@ -11,7 +11,7 @@ Skills: REACT / VUE JS / REACT NATIVE / JS / HTML / CSS / SCSS
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876) -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Lane876&theme=dark)  
 
