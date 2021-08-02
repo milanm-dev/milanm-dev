@@ -7,8 +7,7 @@
 
 ---
 
-Skills: REACT / VUE JS / REACT NATIVE / JS / HTML / CSS / SCSS
-
+<img src="https://img.icons8.com/office/80/000000/react.png"/> <img src="https://img.icons8.com/color/80/000000/vue-js.png"/> <img src="https://img.icons8.com/nolan/80/react-native.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/80/000000/css3.png"/>
 ---
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876) -->
