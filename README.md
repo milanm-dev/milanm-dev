@@ -24,7 +24,8 @@
 -->
 [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40' style='color: red'>](https://www.linkedin.com/in/milanjs)  [<img src='https://img.icons8.com/color/96/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Lane8765) 
 ---
-![Profile views](https://gpvc.arturio.dev/Lane876)  
+![Profile views](https://gpvc.arturio.dev/Lane876)
+---
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
