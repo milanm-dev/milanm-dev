@@ -8,11 +8,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
+
+<!--[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Vue Badge](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42b883)](#)[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Css Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Html Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=black)](#)
+
+
+
+
+
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lane876&show_icons=true&theme=gotham) -->
 <!-- <img src="https://img.icons8.com/office/70/000000/react.png"/> --> 
 
-<img src="https://img.icons8.com/nolan/80/react-native.png"/> <img src="https://img.icons8.com/color/80/000000/vue-js.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/80/000000/css3.png"/>
----
+<!--<img src="https://img.icons8.com/nolan/80/react-native.png"/> <img src="https://img.icons8.com/color/80/000000/vue-js.png"/> <img src="https://img.icons8.com/color/80/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/80/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/80/000000/css3.png"/>
+-->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876) -->
 
@@ -30,7 +41,7 @@
 ![Profile views](https://gpvc.arturio.dev/Lane876)
 ---
 
-<div align="center">
+<!--<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -56,3 +67,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+-->
