@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Milan
+### Hi I'm Milan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 #### Coding is my cardio 😂
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Lane-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Lane8765)](https://twitter.com/Lane8765) [![Linkedin Badge](https://img.shields.io/badge/-Milan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanjs/) [![Mail Badge](https://img.shields.io/badge/-Milan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:milenkovicmilan110@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
@@ -22,8 +26,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lane876&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 -->
-[<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40' style='color: red'>](https://www.linkedin.com/in/milanjs)  [<img src='https://img.icons8.com/color/96/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Lane8765) 
----
+<!-- [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40' style='color: red'>](https://www.linkedin.com/in/milanjs)  [<img src='https://img.icons8.com/color/96/000000/twitter--v1.png' alt='twitter' height='40'>](https://twitter.com/Lane8765) -->
 ![Profile views](https://gpvc.arturio.dev/Lane876)
 ---
 
