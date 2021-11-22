@@ -31,11 +31,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lane876&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lane876&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lane876) -->
     
-
+<!--
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -62,3 +62,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+-->
