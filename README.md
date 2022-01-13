@@ -18,7 +18,6 @@
 --->
 
 <!--- ![Profile views](https://gpvc.arturio.dev/Lane876) --->
----
 
 <details>
 <summary>
