@@ -6,10 +6,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Lane8765-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Lane8765)](https://twitter.com/Lane8765) [![Linkedin Badge](https://img.shields.io/badge/-Milan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milanjs/) [![Mail Badge](https://img.shields.io/badge/-Milan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:milenkovicmilan110@gmail.com)
 
 
-<!--[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+ 
+<!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Vue Badge](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42b883)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Css Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Html Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=black)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Vue Badge](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&labelColor=black&logo=vuedotjs&logoColor=42b883)](#) [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Css Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=black)](#) [![Html Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=black)](#)
 
 
 
