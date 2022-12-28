@@ -31,6 +31,12 @@ A React developer skilled in building interactive and user-friendly web applicat
 
 <p align="left"> <a href="https://www.github.com/Lane876" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/milanjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Lane8765" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+<details>
+<summary>
+  More stuff
+</summary>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -40,13 +46,6 @@ A React developer skilled in building interactive and user-friendly web applicat
 <a href="http://www.github.com/Lane876"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lane876&stroke=a855f7&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
 <a href="https://github.com/Lane876" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lane876&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-<details>
-<summary>
-  More stuff
-</summary>
   
 ### All hex value from 100% to 0% alpha:
 
