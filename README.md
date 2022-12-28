@@ -7,7 +7,7 @@ Software Developer
 A React developer skilled in building interactive and user-friendly web applications using the latest technologies and best practices. I have a strong passion for technology and a natural ability for problem-solving. I am always looking for ways to improve and optimize my code for performance and maintainability.
 
 * 🌍  I'm based in Ljubljana/Slovenia
-* 🖥️  See my portfolio at [this link](http://https://www.milenkovicmilan.com)
+* 🖥️  See my portfolio [here](https://https://www.milenkovicmilan.com)
 * ✉️  You can contact me at [milenkovicmilan10@gmail.com](mailto:milenkovicmilan10@gmail.com)
 
 ### Skills
