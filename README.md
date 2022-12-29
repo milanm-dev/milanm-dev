@@ -8,7 +8,7 @@ A React developer skilled in building interactive and user-friendly web applicat
 
 * 🌍  I'm based in Ljubljana/Slovenia
 * 🖥️  See my portfolio [here](https://www.milenkovicmilan.com)
-* ✉️  You can contact me at [milenkovicmilan10@gmail.com](mailto:milenkovicmilan10@gmail.com)
+* ✉️  You can send me a mail [here](mailto:milenkovicmilan10@gmail.com)
 
 ### Skills
 
